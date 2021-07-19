@@ -20,7 +20,7 @@ If you want to manipulate __Atlas System__ without GUI, for example, in ___CI___
 ### Author
 Andreev Danil | danssg08@gmail.com | https://github.com/DanilAndreev
 ### Repository
-You can fin GitHub repository of this project [here](https://github.com/AtlasRender/atlas-cli)
+You can find GitHub repository of this project [here](https://github.com/AtlasRender/atlas-cli)
 
 <a>
     <hr/>
